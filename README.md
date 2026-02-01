@@ -1,6 +1,9 @@
 # python-learning-phase
 Python Training – Covered Sections
+
+
 Section 1: Python Basics
+
 
 Python basics overview
 
@@ -34,9 +37,12 @@ Logical operators: and, or, not
 
 pass keyword
 
+
 Section 2: Loops
 
+
 =Loops overview=
+
 
 for loop
 
@@ -48,7 +54,9 @@ break and continue
 
 Reverse looping
 
+
 Section 3:
+
 
 While Loop & Functions
 
@@ -66,9 +74,12 @@ Functions with no arguments
 
 Functions with parameters
 
+
 Section 4:
 
+
 =Lists=
+
 
 Creating lists
 
@@ -98,9 +109,12 @@ sort()
 
 reverse()
 
+
 Section 5:
 
+
 =Sets=
+
 
 Creating sets
 
@@ -126,7 +140,12 @@ del
 
 =Tuple=
 
+
 Creating a tuple
+
 Creating an empty tuple
+
 Accessing tuple elements
+
 Transforming a tuple to a list
+

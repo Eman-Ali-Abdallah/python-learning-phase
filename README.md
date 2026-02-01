@@ -1,8 +1,8 @@
 # python-learning-phase
-#Python Training – Covered Sections
-#Section 1: Python Basics
+Python Training – Covered Sections
+Section 1: Python Basics
 
-#Python basics overview
+Python basics overview
 Output (print)
 Python interpreters
 Error types

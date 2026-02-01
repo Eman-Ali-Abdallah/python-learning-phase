@@ -69,3 +69,10 @@ discard()
 pop()
 clear()
 del
+
+=Tuple=
+
+Creating a tuple
+Creating an empty tuple
+Accessing tuple elements
+Transforming a tuple to a list
